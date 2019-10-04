@@ -1,1 +1,1 @@
-# note
+# 開始使用 gitnote
