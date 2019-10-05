@@ -1,7 +1,7 @@
 ##Install Microsoft's **windows-build-tools**：
 ```npm install --global --production windows-build-tools```
  from an elevated PowerShell or CMD.exe (run as Administrator).
-##以管理者身份運行 CMD
+##以管理者身份運行 CMD##
 1. Windows+R 打開
 2. 輸入 runas /user:administrator cmd
 ![runas.png](0)
