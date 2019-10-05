@@ -6,3 +6,4 @@
 2. 輸入 runas /user:administrator cmd
 ![runas.png](0)
 3. 根據提示輸入密碼
+![CMD input administrator password.png](1)
