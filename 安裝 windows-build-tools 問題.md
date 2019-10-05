@@ -2,6 +2,7 @@
 ```npm install --global --production windows-build-tools```
  from an elevated PowerShell or CMD.exe (run as Administrator).
 ##以管理者身份運行 CMD
-Windows+R 打開
+1. Windows+R 打開
+2. 輸入 runas /user:administrator cmd
 
-根據提示輸入密碼
+3. 根據提示輸入密碼
