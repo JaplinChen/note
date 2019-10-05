@@ -7,5 +7,7 @@
 
 ##Install Microsoft's **windows-build-tools**：##
 ```npm install --global --production windows-build-tools```
- from an elevated PowerShell or CMD.exe (run as Administrator).
-npm config set msvs_version 2017
+
+如果有版本問題，可以輸入
+```npm config set msvs_version 2017```
+
